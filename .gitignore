@@ -1,0 +1,50 @@
+📁 js-comment-remover/
+├── .gitignore
+├── LICENSE
+├── README.md
+├── package.json
+├── vite.config.js
+├── index.html
+├── tailwind.config.js
+└── src/
+    ├── main.jsx
+    ├── App.jsx
+    └── components/
+        └── CommentRemover.jsx
+
+Contents of each file:
+
+1. .gitignore:
+```
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Production
+/dist
+/build
+
+# Misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
