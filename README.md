@@ -5,6 +5,10 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
+## 🔗 Demo
+
+Try it live: [JS Comment Stripper](https://js-comment-stripper.vercel.app/)
+
 ## Features
 
 - ✨ Removes single-line comments (//)
